@@ -10,4 +10,11 @@ while($i < 100 && $x < 50){
     $x++;
 }
 echo 'End of loop';
+
+
+$a = 10;
+while($a<20){
+    echo "Good night"."<br>";
+    $a+=1;
+}
 ?>
