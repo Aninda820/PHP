@@ -1,4 +1,5 @@
 <?php
+// String Methods in PHP
 $name = 'Aninda';
 echo $name . '<br>';
 echo "The length of the string is " . strlen($name) . '<br>';
